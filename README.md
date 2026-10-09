@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi! My name is jaewon. 👋
+
+- 🔭 I'm currently learning **Open Source Software**
+- 🌱 I’m studying with **GitHub Skills** and **FreeCodeCamp**
+- My learning objective is to create a simple web service
+- 📫 How to reach me: **leejewon2004@gmail.com**
+- 😄 I will update the profile gradually
+
+#### 🛠 Skills
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <!--
 **lee12sen/lee12sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

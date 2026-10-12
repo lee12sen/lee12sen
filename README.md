@@ -1,3 +1,7 @@
+# BooksMap
+
+[![Build](https://github.com/lee12sen/booksmap/actions/workflows/ci.yml/badge.svg)](https://github.com/lee12sen/booksmap/actions/workflows/ci.yml)
+
 ## Hi! My name is jaewon. 👋
 
 - 🔭 I'm currently learning **Open Source Software**

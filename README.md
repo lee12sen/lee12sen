@@ -1,6 +1,4 @@
-# BooksMap
 
-[![Build](https://github.com/lee12sen/booksmap/actions/workflows/ci.yml/badge.svg)](https://github.com/lee12sen/booksmap/actions/workflows/ci.yml)
 
 ## Hi! My name is jaewon. 👋
 
@@ -32,6 +30,10 @@
 - 게임 개발
 - 웹 개발
 - 컴퓨터 과학
+
+### BooksMap
+
+[![Build](https://github.com/lee12sen/booksmap/actions/workflows/ci.yml/badge.svg)](https://github.com/lee12sen/booksmap/actions/workflows/ci.yml)
 
 <!--
 **lee12sen/lee12sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
